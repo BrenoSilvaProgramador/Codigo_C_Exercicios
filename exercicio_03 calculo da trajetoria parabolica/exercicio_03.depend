@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649108058 source:c:\users\breno\desktop\programação\codigo c\exercicios_c_01\exercicio_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
